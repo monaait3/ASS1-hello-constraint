@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="hint_num1">Enter first number</string>
+    <string name="hint_num2">Enter second number</string>
+    <string name="button_add">ADD</string>
+    <string name="button_sub">SUB</string>
+    <string name="button_div">DIV</string>
+    <string name="button_mul">MUL</string>
+    <string name="result_default">0.0</string>
+    <string name="error_empty">Enter both numbers</string>
+    <string name="error_zero">Cannot divide by zero</string>
+</resources>
